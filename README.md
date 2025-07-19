@@ -8,16 +8,16 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="NumPy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img alt="Matplotlib" width="30px" src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" />
-  <img alt="Seaborn" width="30px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
-  <img alt="scikit-learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-  <img alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-  <img alt="Google Colab" width="30px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
+  ![Python]<img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  ![R]<img alt="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  ![MySQL]<img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  ![NumPy]<img alt="NumPy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  ![Pandas]<img alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  ![Matplotlib]<img alt="Matplotlib" width="30px" src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" />
+  ![Seaborn]<img alt="Seaborn" width="30px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
+  ![Scikit-Learn]<img alt="scikit-learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+  ![Jupyter]<img alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  ![Google Colab]<img alt="Google Colab" width="30px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
 </p>
 
 ---
