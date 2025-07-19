@@ -17,7 +17,7 @@
 ---
 
 ### 📣 Connect with me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/kritika-pawar-667264299/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
