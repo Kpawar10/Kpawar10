@@ -7,38 +7,12 @@
 ---
 
 ### 🛠️ Languages and Tools:
-### 🛠️ Languages and Tools
-<p align="center">
-  <!-- Python -->
-  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />
-  
-  <!-- R -->
-  <img alt="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" />
-  
-  <!-- MySQL -->
-  <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
-  
-  <!-- NumPy -->
-  <img alt="NumPy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" />
-  
-  <!-- Pandas -->
-  <img alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" />
-  
-  <!-- Matplotlib -->
-  <img alt="Matplotlib" width="30px" src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" title="Matplotlib" />
-  
-  <!-- Seaborn -->
-  <img alt="Seaborn" width="30px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" />
-  
-  <!-- Scikit-learn -->
-  <img alt="scikit-learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" />
-  
-  <!-- Jupyter -->
-  <img alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" />
-  
-  <!-- Google Colab -->
-  <img alt="Google Colab" width="30px" src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Google Colab" />
-</p>
+
+| Category               | Skills and Icons |
+|------------------------|------------------|
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Libraries & Packages** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-5A4FCF?style=for-the-badge) ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **IDE & Notebooks** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) |
 
 ---
 
