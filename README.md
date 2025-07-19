@@ -29,9 +29,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kpawar10&show_icons=true&theme=radical" alt="Kritika's GitHub Stats"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Kpawar10&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kpawar10&show_icons=true&theme=radical" alt="Kritika's GitHub Stats" height="180"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Kpawar10&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
 
