@@ -2,7 +2,7 @@
 
 - 💻 BTech CSE | AI-ML Enthusiast
 - 📚 Learning DSA, Machine Learning
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/kritika-pawar-667264299/)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/kritika-pawar-667264299/) 
 
 ---
 
