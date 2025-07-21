@@ -30,14 +30,10 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kpawar10&show_icons=true&theme=radical" alt="Kritika's GitHub Stats" height="180"/>
-  &nbsp; 
+  &nbsp;
   <img src="https://streak-stats.demolab.com/?user=Kpawar10&theme=radical" alt="GitHub Streak" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpawar10&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
-
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kpawar10&layout=compact&theme=radical)
-
-</div>
 
