@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Kritika Pawar
+### 👋 Hi, I’m Kritika Pawar 
 
 - 💻 BTech CSE | AI-ML Enthusiast
 - 📚 Learning DSA, Machine Learning
