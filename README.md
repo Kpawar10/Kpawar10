@@ -24,7 +24,7 @@
   <a href="mailto:pawarkritika2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
-</p>
+</p> 
 
  
 ### 📊 GitHub Stats
