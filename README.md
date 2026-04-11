@@ -5,7 +5,7 @@
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/kritika-pawar-667264299/)  
    
 ---
-
+ 
 ### 🛠️ Languages and Tools:
  
 | Category               | Skills |
